@@ -1,4 +1,4 @@
-
+//
 package pe.edu.upn.veterinaria.util;
 
 import java.sql.Connection;
